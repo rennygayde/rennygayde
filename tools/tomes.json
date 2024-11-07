@@ -1,0 +1,34 @@
+{
+    "tomes": [
+        {
+            "title": "Runes?",
+            "link": "https://youtu.be/_MpT21U0ltc",
+            "image": "media/video.svg"
+        },
+        {
+            "title": "Aegishjalmur: The Book of Dragon Runes",
+            "link": "https://github.com/rennygaydewitch/booktok/blob/main/books/Aegishjalmur.pdf",
+            "image": "media/tome.svg"
+        },
+        {
+            "title": "Remedies and Rituals: Folk Medicine in Norway and the New Land",
+            "link": "https://github.com/rennygaydewitch/booktok/blob/main/books/rrfolkmagic.pdf",
+            "image": "media/tome.svg"
+        },
+        {
+            "title": "Galdrabok: A Icelandic Grimoire",
+            "link": "https://github.com/rennygaydewitch/booktok/blob/main/books/Galdrabok.pdf",
+            "image": "media/tome.svg"
+        },
+        {
+            "title": "Kalevala",
+            "link": "https://github.com/rennygaydewitch/booktok/blob/main/books/Kalevala.pdf",
+            "image": "media/tome.svg"
+        },
+        {
+            "title": "Finnish Folklore Atlas",
+            "link": "https://github.com/rennygaydewitch/booktok/blob/main/books/folkloreatlas.pdf",
+            "image": "media/tome.svg"
+        }
+    ]
+}
